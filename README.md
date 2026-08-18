@@ -5,7 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&width=435&lines=Cloud+Security+Engineer;Azure+Security+Specialist;SOC+Analyst;Threat+Hunter)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zagros-saeedi)
+<!-- Update this LinkedIn URL if Zagros Saeedi's real vanity URL differs. -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberZag)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zagrossaeedi74@gmail.com)
 
@@ -48,13 +49,12 @@ Goal        : Securing cloud environments and building world-class detection eng
 
 <div align="center">
 
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-003087?style=for-the-badge&logo=comptia&logoColor=white)
-![Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-003087?style=for-the-badge&logo=comptia&logoColor=white)
-![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-003087?style=for-the-badge&logo=comptia&logoColor=white)
-![Network+](https://img.shields.io/badge/CompTIA-Network%2B-003087?style=for-the-badge&logo=comptia&logoColor=white)
-![A+](https://img.shields.io/badge/CompTIA-A%2B-003087?style=for-the-badge&logo=comptia&logoColor=white)
-![SAL1](https://img.shields.io/badge/CompTIA-SAL1-003087?style=for-the-badge&logo=comptia&logoColor=white)
-![SC-900](https://img.shields.io/badge/Microsoft-SC--900-003087?style=for-the-badge&logo=microsoft&logoColor=white)
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-003087?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-003087?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-003087?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-003087?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-003087?style=for-the-badge&logo=comptia&logoColor=white)
+![Microsoft AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
 
@@ -62,12 +62,14 @@ Goal        : Securing cloud environments and building world-class detection eng
 
 <div align="center">
 
-![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-FFA500?style=for-the-badge&logo=comptia&logoColor=white)
-![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-FFA500?style=for-the-badge&logo=comptia&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO-27001%20Lead%20Auditor-FFA500?style=for-the-badge&logoColor=white)
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-FFA500?style=for-the-badge&logo=comptia&logoColor=white)
+![TryHackMe SAL1](https://img.shields.io/badge/TryHackMe-SAL1-FFA500?style=for-the-badge&logo=tryhackme&logoColor=white)
+![CompTIA PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-FFA500?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Project+](https://img.shields.io/badge/CompTIA-Project%2B-FFA500?style=for-the-badge&logo=comptia&logoColor=white)
+![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-FFA500?style=for-the-badge&logo=cisco&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO-27001-FFA500?style=for-the-badge&logoColor=white)
 
 </div>
-
 ---
 
 ## 🛠️ Technical Skills
