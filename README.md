@@ -1,6 +1,6 @@
 # Zagros Saeedi | CyberZag
 
-**Cybersecurity diploma student in Toronto | SOC and identity-security learning portfolio**
+**Cybersecurity Analyst diploma student in Toronto | SOC and identity-security learning portfolio**
 
 [LinkedIn](https://linkedin.com/in/zagros-saeedi) · [Email](mailto:zagrossaeedi74@gmail.com)
 
@@ -9,6 +9,11 @@
 An entry-level opportunity in **security operations, identity/access support, or IT support with security exposure**. I am based in **Toronto, Ontario** and am focusing on Toronto/GTA positions with a workable commute, or remote positions that allow work from Ontario.
 
 My background includes client-facing coaching, team coordination and independent trading. I am building a technical foundation through cybersecurity study and educational projects. This portfolio is **lab work, not a claim of professional SOC or production incident-response experience**.
+
+## Education
+
+**Cybersecurity Analyst Diploma — Canadian Business College, Toronto, Ontario**  
+Expected completion: **December 2026**
 
 ## Start here
 
