@@ -1,53 +1,37 @@
-<div align="center">
+# Zagros Saeedi | CyberZag
 
-# Hi, I'm **Zagros Saeedi**
-### `Cybersecurity Analyst Student | SOC • Detection • Azure Security`
+**Cybersecurity diploma student in Toronto | SOC and identity-security learning portfolio**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zagros-saeedi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zagrossaeedi74@gmail.com)
+[LinkedIn](https://linkedin.com/in/zagros-saeedi) · [Email](mailto:zagrossaeedi74@gmail.com)
 
-</div>
+## What I am looking for
 
-## About me
+An entry-level opportunity in **security operations, identity/access support, or IT support with security exposure**. I am based in **Toronto, Ontario** and am focusing on Toronto/GTA positions with a workable commute, or remote positions that allow work from Ontario.
 
-I am a Cybersecurity Specialist diploma student in Canada building practical, defensive security skills through reproducible labs. My portfolio focuses on **SOC alert triage, detection engineering, Microsoft Sentinel/KQL, Azure and Entra ID security, Python automation, and incident documentation**.
+My background includes client-facing coaching, team coordination and independent trading. I am building a technical foundation through cybersecurity study and educational projects. This portfolio is **lab work, not a claim of professional SOC or production incident-response experience**.
 
-I am currently targeting **Cybersecurity Analyst, SOC Analyst, Security Operations, Cloud Security, internship/co-op, and new-graduate roles** in Canada.
+## Start here
 
-## Featured projects
+| Project | What a reviewer can inspect | Evidence boundary |
+|---|---|---|
+| [Trading Account Security Monitor](https://github.com/CyberZag/trading-account-security-monitor) | Python detection rules, synthetic telemetry, case correlation, Markdown reports and a Streamlit dashboard. | The committed demo documents six alerts and five cases on fabricated data. It does not monitor real trading accounts or generate trading advice. |
+| [SOC Authentication Triage Lab](https://github.com/CyberZag/101-cybersecurity-analyst/tree/main/01-soc-alert-triage-lab) | Input validation, UTC normalization, three authentication-pattern rules, regression tests, structured findings and an analyst report. | AI-assisted implementation. Recorded assistant test evidence is separate from my own learner reproduction. Sentinel queries are drafts, not tenant-validated detections. |
+| [Azure Security Labs](https://github.com/CyberZag/azure-security-labs) | Entra ID review tooling, Activity Log analysis and educational KQL examples. | Review each artifact's mock-data mode and validation notes; repository contents alone do not establish a live Azure deployment. |
+| [Sentinel, SOAR and Identity Defense](https://github.com/CyberZag/azure-sentinel-soar-identity-defense) | Draft detection queries, automation designs and a simulated incident-response runbook. | Educational designs and simulation; environment-specific validation remains necessary. |
 
-### 🔎 [SOC Alert Triage Lab — Authentication Attack Investigation](https://github.com/CyberZag/101-cybersecurity-analyst/tree/main/01-soc-alert-triage-lab)
-Synthetic authentication telemetry → Python detections → risk prioritization → Sentinel KQL → MITRE ATT&CK → SOC incident report.
+## Certifications
 
-**Signals detected:** brute force followed by success, MFA fatigue, and impossible travel.
+CompTIA **Security+**, **Network+**, **A+**, **Linux+**, **Cloud+**  
+Microsoft Certified: **Azure Administrator Associate (AZ-104)**
 
-### 📈 [Trading Account Security Monitor](https://github.com/CyberZag/trading-account-security-monitor)
-A tested SIEM-style Python detection pipeline with five security rules, alert correlation, investigation cases, reproducible synthetic telemetry, and a Streamlit dashboard.
+## Current learning focus
 
-### ☁️ [Azure Security Labs](https://github.com/CyberZag/azure-security-labs)
-Hands-on portfolio labs for Entra ID security review, Microsoft Sentinel detections, Azure Activity Log analysis, Python, KQL, and MITRE ATT&CK mapping.
+Authentication-log analysis, clear incident documentation, Python, networking and Linux fundamentals, Microsoft Sentinel/KQL concepts, and Azure/Entra ID security concepts.
 
-## Core skills
+## How this portfolio is presented
 
-- **Security Operations:** alert triage, investigation workflows, detection logic, incident documentation, MITRE ATT&CK
-- **Microsoft Security:** Azure, Entra ID, Microsoft Sentinel, KQL, Defender XDR concepts
-- **Scripting & Systems:** Python, PowerShell, Bash, Linux, Windows, Git/GitHub
-- **Networking:** TCP/IP, DNS, DHCP, VPNs, firewalls, routing/switching fundamentals
-
-## Earned certifications
-
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA Linux+
-- CompTIA Cloud+
-- CompTIA A+
-- Microsoft AZ-104
-
-## Current education
-
-**Cybersecurity Specialist Diploma — Herzing College**  
-Expected completion: **February 2027**
+Projects distinguish synthetic examples, actual test output, AI assistance, and unvalidated drafts. I am using the accompanying exercises to reproduce results, make my own changes, and explain the design and its limitations. No customer data, credentials, fabricated incidents or backdated evidence belong here.
 
 ---
 
-**Open to cybersecurity internships, co-ops, and new-graduate opportunities in Canada.**
+**Toronto, Ontario · Open to relevant entry-level opportunities**
