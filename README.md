@@ -2,7 +2,7 @@
 
 **Cybersecurity Analyst diploma student in Toronto | SOC and identity-security learning portfolio**
 
-[LinkedIn](https://linkedin.com/in/zagros-saeedi) · [Email](mailto:zagrossaeedi74@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/zagros-saeedi-263638257/)
 
 ## What I am looking for
 
@@ -21,6 +21,7 @@ Expected completion: **December 2026**
 |---|---|---|
 | [Trading Account Security Monitor](https://github.com/CyberZag/trading-account-security-monitor) | Python detection rules, synthetic telemetry, case correlation, Markdown reports and a Streamlit dashboard. | The committed demo documents six alerts and five cases on fabricated data. It does not monitor real trading accounts or generate trading advice. |
 | [SOC Authentication Triage Lab](https://github.com/CyberZag/101-cybersecurity-analyst/tree/main/01-soc-alert-triage-lab) | Input validation, UTC normalization, three authentication-pattern rules, regression tests, structured findings and an analyst report. | AI-assisted implementation. Recorded assistant test evidence is separate from my own learner reproduction. Sentinel queries are drafts, not tenant-validated detections. |
+| [Asset Lifecycle and Support Ticket Lab](https://github.com/CyberZag/learn-cybersecurity-with-projects/tree/main/labs/asset-lifecycle) | Offline inventory and ticket workflow, approval and stale-state checks, synthetic fixtures, ten automated tests and an investigation runbook. | AI-assisted resource; published assistant test results are separate from personal learner practice. No real device or account changes. |
 | [Azure Security Labs](https://github.com/CyberZag/azure-security-labs) | Entra ID review tooling, Activity Log analysis and educational KQL examples. | Review each artifact's mock-data mode and validation notes; repository contents alone do not establish a live Azure deployment. |
 | [Sentinel, SOAR and Identity Defense](https://github.com/CyberZag/azure-sentinel-soar-identity-defense) | Draft detection queries, automation designs and a simulated incident-response runbook. | Educational designs and simulation; environment-specific validation remains necessary. |
 
@@ -35,7 +36,7 @@ Authentication-log analysis, clear incident documentation, Python, networking an
 
 ## How this portfolio is presented
 
-Projects distinguish synthetic examples, actual test output, AI assistance, and unvalidated drafts. I am using the accompanying exercises to reproduce results, make my own changes, and explain the design and its limitations. No customer data, credentials, fabricated incidents or backdated evidence belong here.
+Projects distinguish synthetic examples, actual test output, AI assistance, and unvalidated drafts. The accompanying exercises provide a way to reproduce results, make changes, and explain the design and its limitations; repository publication alone does not establish personal completion. No customer data, credentials, fabricated incidents or backdated evidence belong here.
 
 ---
 
